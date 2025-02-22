@@ -1,0 +1,78 @@
+{
+  "overall": {
+    "score": 109,
+    "questions": 66,
+    "attempts": 53,
+    "correct": 40,
+    "accuracy": "75.76%",
+    "timeSpent": "02:00"
+  },
+  "varc": {
+    "questions": 24,
+    "attempts": 21,
+    "correct": 16,
+    "accuracy": "76.19%",
+    "timeSpent": "01:15",
+    "verbal": {
+      "questions": 12,
+      "attempts": 11,
+      "correct": 9,
+      "accuracy": "81.82%",
+      "timeSpent": "00:43"
+    },
+    "rc": {
+      "questions": 12,
+      "attempts": 10,
+      "correct": 7,
+      "accuracy": "70.00%",
+      "timeSpent": "00:32"
+    },
+    "selection": {
+      "easy": { "correct": 9, "incorrect": 1, "skipped": 1 },
+      "medium": { "correct": 3, "incorrect": 1, "skipped": 0 },
+      "hard": { "correct": 4, "incorrect": 0, "skipped": 0 }
+    }
+  },
+  "dilr": {
+    "questions": 30,
+    "attempts": 20,
+    "correct": 10,
+    "accuracy": "50.00%",
+    "timeSpent": "00:45",
+    "lr": {
+      "questions": 10,
+      "attempts": 8,
+      "correct": 6,
+      "accuracy": "66.67%",
+      "timeSpent": "00:22"
+    },
+    "di": {
+      "questions": 20,
+      "attempts": 12,
+      "correct": 4,
+      "accuracy": "33.33%",
+      "timeSpent": "00:23"
+    },
+    "selection": {
+      "easy": { "correct": 5, "incorrect": 0, "skipped": 0 },
+      "medium": { "correct": 2, "incorrect": 4, "skipped": 1 },
+      "hard": { "correct": 2, "incorrect": 0, "skipped": 0 }
+    }
+  },
+  "qa": {
+    "questions": 12,
+    "attempts": 12,
+    "correct": 9,
+    "accuracy": "75.00%",
+    "geometry": { "questions": 6, "attempts": 5, "correct": 3, "accuracy": "60.00%" },
+    "numbers": { "questions": 4, "attempts": 4, "correct": 2, "accuracy": "50.00%" },
+    "algebra": { "questions": 5, "attempts": 5, "correct": 4, "accuracy": "80.00%" },
+    "arithmetic": { "questions": 4, "attempts": 3, "correct": 3, "accuracy": "100%" },
+    "modernMath": { "questions": 3, "attempts": 2, "correct": 1, "accuracy": "50.00%" },
+    "selection": {
+      "easy": { "correct": 9, "incorrect": 0, "skipped": 0 },
+      "medium": { "correct": 2, "incorrect": 3, "skipped": 0 },
+      "hard": { "correct": 1, "incorrect": 0, "skipped": 0 }
+    }
+  }
+}
